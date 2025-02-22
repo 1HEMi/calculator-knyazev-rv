@@ -2,4 +2,4 @@
 *.out
 *.elf
 *.exe
-/calculator
+calculator/
