@@ -2,4 +2,9 @@
 *.out
 *.elf
 *.exe
-calculator/
+input.txt
+*.tmp
+*.log
+
+build/
+googletest/
